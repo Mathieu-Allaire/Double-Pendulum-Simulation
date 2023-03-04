@@ -1,5 +1,9 @@
 # Double-Pendulum-Simulation
-![image](https://user-images.githubusercontent.com/113075689/222923004-04e49277-2675-48b8-bcb4-9606c5a062c4.png)
+
+<p align="center">
+  <img src="![image](https://user-images.githubusercontent.com/113075689/222923004-04e49277-2675-48b8-bcb4-9606c5a062c4.png)">
+</p>
+
 
 In this project, two of my colleagues and I implemented the necessary tools and 
 mathematics required to simulate the motion and path of a double pendulum using 
