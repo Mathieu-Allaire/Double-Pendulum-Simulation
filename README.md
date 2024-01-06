@@ -5,7 +5,7 @@
 </p>
 
 
-In this project, two of my colleagues and I implemented the necessary tools and 
+In this research project, two of my colleagues and I implemented the necessary tools and 
 mathematics required to simulate the motion and path of a double pendulum using 
 Euler-Lagrange equations in Python using mainly numpy and pandas libaries. We
 then found some interesting relations between the angle phase portrait of a 
