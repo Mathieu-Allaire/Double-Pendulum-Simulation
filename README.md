@@ -21,3 +21,13 @@ its angular velocity over time.
 </p>
 
 
+## Recommended IDE Setup
+Any IDE that supports Python can run the code as long as the modules used are installed correctly beforehand.
+
+For an easy visualization of the code, I recommend using [Google Collab](https://colab.google/), a hosted Jupyter notebook service that requires no setup to use while providing access free of charge to computing resources including GPUs.
+
+
+## Link to the code
+A full report containing the context and snapshots of the code can be found [here](https://github.com/Mathieu-Allaire/Double-Pendulum-Simulation/blob/main/Double_Pendulum.ipynb).
+
+
